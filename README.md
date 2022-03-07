@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dvct0
-- 👀 I’m interested in programming
+- 👀 I’m interested in mobile and desktop development
 - 🌱 I’m currently learning C#, Java 
 - 📫 How to reach me? No way
 <!--- 💞️ I’m looking to collaborate on ...-->
